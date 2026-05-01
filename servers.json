@@ -1,17 +1,8 @@
 [
   {
     "name": "Server 1",
-    "ip": "127.0.0.1",
-    "port": "53640"
-  },
-  {
-    "name": "Server 2",
-    "ip": "192.168.1.5",
-    "port": "53640"
-  },
-  {
-    "name": "Server 3",
-    "ip": "10.0.0.2",
-    "port": "53640"
+    "ip": "datacorex.eu",
+    "port": "2005"
+    "client": "2020L"
   }
 ]
