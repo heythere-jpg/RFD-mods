@@ -2,7 +2,7 @@
   {
     "name": "Server 1",
     "ip": "datacorex.eu",
-    "port": "2005"
+    "port": "2005",
     "client": "2020L"
   }
 ]
